@@ -1,0 +1,12 @@
+nodeType,nodeLabels,propertyName,propertyTypes
+:`Device`,['Device'],guid,['String']
+:`Device`,['Device'],os,['String']
+:`Device`,['Device'],device,['String']
+:`IP`,['IP'],guid,['String']
+:`User`,['User'],guid,['String']
+:`User`,['User'],fraudMoneyTransfer,['Long']
+:`User`,['User'],firstChargebackMtDate,['Date']
+:`User`,['User'],moneyTransferErrorCancelAmount,['Double']
+:`Card`,['Card'],guid,['String']
+:`Card`,['Card'],cardType,['String']
+:`Card`,['Card'],level,['String']

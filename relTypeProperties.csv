@@ -1,0 +1,7 @@
+relType,propertyName,propertyTypes
+:`P2P`,transactionDateTime,['DateTime']
+:`P2P`,totalAmount,['Double']
+:`HAS_CC`,cardDate,['Date']
+:`USED`,deviceDate,['Date']
+:`HAS_IP`,ipDate,['Date']
+:`REFERRED`,,
