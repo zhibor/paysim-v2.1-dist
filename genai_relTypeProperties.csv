@@ -1,0 +1,7 @@
+relType,propertyName,propertyTypes
+:`FROM_DEPARTMENT`,,
+:`VARIANT_OF`,,
+:`PURCHASED`,txId,['Long']
+:`PURCHASED`,price,['Double']
+:`PURCHASED`,salesChannelId,['Long']
+:`PURCHASED`,tDat,['Date']
